@@ -3,4 +3,4 @@
 
  Repositório criado durante o treinamento de Git/Github com o professor Gustavo Guanabara.
 
-# Estou adicionando esse comentário direto pelo site do Githun.
+ Estou adicionando esse comentário direto pelo site do Github.
